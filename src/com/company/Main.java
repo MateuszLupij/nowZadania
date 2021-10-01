@@ -60,7 +60,7 @@ public class Main {
 
         Human myWife = new Human();
         myWife.FirstName = "Agnieszka";
-        myWife.LastName = "xx";
+        myWife.LastName = "xxxx";
         myWife.introduceYourself();
         me.setSalary(21.000);
         me.pet = dog;
